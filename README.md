@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**TricksterJadon/TricksterJadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a learning focused developer based in Germany.
 
-Here are some ideas to get you started:
+I care deeply about privacy by default, clear thinking, and building things step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+
+I am currently strengthening my foundations in Python and learning by building small personal projects.
+
+I focus on understanding how things work.  
+Progress and discipline matter more to me than speed.
+
+### Tech and interests 🧠
+
+Python with solid fundamentals such as loops, functions, and basic error handling.  
+Artificial intelligence with a focus on fundamentals.  
+Privacy and responsible technology.
+General tech and systems thinking.
+
+### Mindset 💬
+
+> Success is defined by hard work and discipline, not by motivation.
